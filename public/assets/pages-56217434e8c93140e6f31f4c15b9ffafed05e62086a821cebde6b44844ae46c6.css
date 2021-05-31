@@ -1,0 +1,59 @@
+/* line 2, app/assets/stylesheets/pages.scss */
+.loginBox {
+  border-style: none;
+  width: 400px;
+  height: 500px;
+  position: relative;
+  background-color: white;
+  border-radius: 20px;
+  margin-top: 13%;
+  margin-bottom: 5%;
+  padding: 70px;
+  box-shadow: 4px 4px 10px 4px #888888;
+}
+
+/* line 20, app/assets/stylesheets/pages.scss */
+.loginEntry {
+  margin-bottom: 10px;
+}
+
+/* line 24, app/assets/stylesheets/pages.scss */
+.loginBtn {
+  margin-top: 20px;
+  background-color: #1778f2;
+}
+
+/* line 30, app/assets/stylesheets/pages.scss */
+.rememberMeLabel {
+  text-align: center;
+}
+
+/* line 34, app/assets/stylesheets/pages.scss */
+#loginTitle {
+  margin-bottom: 28px;
+  text-align: center;
+}
+
+/* line 39, app/assets/stylesheets/pages.scss */
+.loginContents {
+  position: relative;
+  width: 250px;
+  margin-top: 20px;
+}
+
+/* line 45, app/assets/stylesheets/pages.scss */
+#signUpButton {
+  margin-top: 70px;
+  text-align: center;
+  color: grey;
+}
+
+/* line 51, app/assets/stylesheets/pages.scss */
+#signUpLink {
+  color: grey;
+}
+
+/* line 55, app/assets/stylesheets/pages.scss */
+#signUpLink:hover {
+  color: #1778F2;
+}
