@@ -1,7 +1,8 @@
 
 # AceBook By Derailed
 [![Build Status](https://travis-ci.com/KaneG9/Acebook.svg?branch=main)](https://travis-ci.com/KaneG9/Acebook)
-  By [Kane](github.com/KaneG9), [Cynthia](https://github.com/C-A-Tech), [Matt](https://github.com/MattDawson2020), [Mike](https://github.com/mikejeuga), [Noa](https://github.com/noarfarber), [Tiago](https://github.com/TiagoManuelPC) and [Toby](https://github.com/tobyjessup).
+
+By [Kane](github.com/KaneG9), [Cynthia](https://github.com/C-A-Tech), [Matt](https://github.com/MattDawson2020), [Mike](https://github.com/mikejeuga), [Noa](https://github.com/noarfarber), [Tiago](https://github.com/TiagoManuelPC) and [Toby](https://github.com/tobyjessup).
 
 ## About Acebook 
 * Acebook was a group project created over two weeks using Rails and for the majority was the first experience using this framework.
