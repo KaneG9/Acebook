@@ -1,6 +1,6 @@
 
 # AceBook By Derailed
-
+[![Build Status](https://travis-ci.com/KaneG9/Acebook.svg?branch=main)](https://travis-ci.com/KaneG9/Acebook)
   By [Kane](github.com/KaneG9), [Cynthia](https://github.com/C-A-Tech), [Matt](https://github.com/MattDawson2020), [Mike](https://github.com/mikejeuga), [Noa](https://github.com/noarfarber), [Tiago](https://github.com/TiagoManuelPC) and [Toby](https://github.com/tobyjessup).
 
 ## About Acebook 
@@ -61,4 +61,3 @@ First, clone this repository. Then:
 
 ![Sign Up](app/assets/images/Screenshot%202021-05-31%20at%2016.24.10.png)
 ![Home Feed](app/assets/images/Screenshot%202021-05-31%20at%2016.36.10.png)
-a
