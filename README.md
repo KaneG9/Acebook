@@ -17,7 +17,7 @@
 	* Edit your profile including display picture
 	* View any other users profiles
 	* Dark mode
-* The project was deploy to Heroku [here](https://fierce-scrubland-29769.herokuapp.com/)
+* The project was deployed to Heroku [here](https://fierce-scrubland-29769.herokuapp.com/)
 
 ## Quickstart
 
