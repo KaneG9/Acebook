@@ -20,6 +20,31 @@ By [Kane](github.com/KaneG9), [Cynthia](https://github.com/C-A-Tech), [Matt](htt
 	* Dark mode
 * The project was deployed to Heroku [here](https://fierce-scrubland-29769.herokuapp.com/)
 
+<details>
+<summary>Sign Up Page</summary>
+<br>
+<img src="app/assets/images/Screenshot%202021-05-31%20at%2016.24.10.png">
+</details>
+
+<details>
+<summary>Log In Page</summary>
+<br>
+<img src="app/assets/images/Screenshot%202021-06-02%20at%2011.57.59.png">
+</details>
+
+<details>
+<summary>Profile Page</summary>
+<br>
+<img src="app/assets/images/Screenshot%202021-06-02%20at%2012.07.12.png">
+</details>
+
+<details>
+<summary>Home Feed with dark mode on</summary>
+<br>
+<img src="app/assets/images/Screenshot%202021-05-31%20at%2016.36.10.png">
+</details>
+<br>
+
 ## Quickstart
 
 
@@ -35,7 +60,7 @@ First, clone this repository. Then:
 
   
 
-> bundle exec rspec # Run the tests to ensure it works
+> bundle exec rspec # Run the tests 
 
 > bin/rails server # Start the server at localhost:3000
 
@@ -60,5 +85,3 @@ First, clone this repository. Then:
 * We managed to deploy the app to [Heroku](https://fierce-scrubland-29769.herokuapp.com/), however images stored using active record could not properly load after the webpage went dormant. I would like to have attempted to implement storing using an external provider such as Amazon S3 and I will look to attempt this in future projects.
 * The design of the web page looked very good, however it did not react well to resizing the page and in the future I would like to try to design the webpage so it displays properly and a variety of sized webpages.
 
-![Sign Up](app/assets/images/Screenshot%202021-05-31%20at%2016.24.10.png)
-![Home Feed](app/assets/images/Screenshot%202021-05-31%20at%2016.36.10.png)
